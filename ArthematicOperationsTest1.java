@@ -16,7 +16,7 @@ public class ArthematicOperationsTest1
 	public static void main(String[] args){
 		
 		int a= 5;
-		int b= 6;
+		int b= 100;
 		
 		float f1 = 2.2f;
 
